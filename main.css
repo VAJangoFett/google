@@ -1,3 +1,10 @@
+@media screen end(max-width 1200px)
+{
+    media handheld
+    max-device-width
+}
+
+
 p, a, li, span
 {
     font-family: Arial, Helvetica, sans-serif;
